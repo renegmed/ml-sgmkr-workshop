@@ -1,0 +1,6 @@
+
+Amazon SageMaker Debugger - Using built-in rule
+
+Source: 
+
+https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-debugger/tensorflow_builtin_rule/tf-mnist-builtin-rule.ipynb
